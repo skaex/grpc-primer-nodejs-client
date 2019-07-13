@@ -1,0 +1,20 @@
+{
+  "name": "grpc-primer-nodejs-client",
+  "version": "1.0.0",
+  "description": "Just trying out GRPC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "grpc",
+    "node",
+    "javascript"
+  ],
+  "author": "Abdulmajid Hamza",
+  "license": "MIT",
+  "dependencies": {
+    "@grpc/proto-loader": "^0.5.1",
+    "grpc": "^1.22.2"
+  }
+}
